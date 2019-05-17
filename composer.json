@@ -1,0 +1,19 @@
+{
+    "name": "thuanvh/contact",
+    "description": "Package Contact - Save name, email, message to admin contact and send email",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thuanvh",
+            "email": "vohuythuan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Thuanvh\\Contact\\": "src/"
+        }
+    }
+}
