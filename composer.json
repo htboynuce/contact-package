@@ -15,5 +15,12 @@
         "psr-4": {
             "Thuanvh\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thuanvh\\Contact\\ServiceProvider"
+            ]
+        }
     }
 }
